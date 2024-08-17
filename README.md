@@ -26,5 +26,5 @@ As the project lead, I handled the complete development process, including desig
 Outcome:<br/>
 The E-Waste Monitoring Dashboard demonstrates my commitment to effective and visually appealing web solutions. It combines practical functionality with dynamic data analysis to offer a robust tool for managing e-waste.<br/>
 
-**My Profile:** <a href="https://github.com/lokesh-reddy14" target="_blank">LokeshReddy</a><br/>
+**Google colab to check the prototype** <a href="https://colab.research.google.com/drive/1svf3xQOuZBPwpNWW0equ9g6kK5d3r0B6?usp=sharing" target="_blank">E-Waste Monitoring </a><br/>
 
