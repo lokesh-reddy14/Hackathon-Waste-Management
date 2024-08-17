@@ -1,7 +1,7 @@
-Title: E-Waste Monitoring Dashboard Project<br/>
+Title: E-Waste Monitoring Dashboard Hackathon-Project<br/>
 
 Description:<br/>
-I’m excited to present my latest project - the E-Waste Monitoring Dashboard! 🌍 This project is designed to help track and analyze e-waste items effectively. Crafted with HTML, Tailwind CSS, and Python, it offers a comprehensive tool for managing and visualizing e-waste data.<br/>
+I’m excited to present my latest Hackathon-project - the E-Waste Monitoring Dashboard! 🌍 This project is designed to help track and analyze e-waste items effectively. Crafted with HTML, Tailwind CSS, and Python, it offers a comprehensive tool for managing and visualizing e-waste data.<br/>
 Key Features:<br/>
 
 Dashboard Page: Displays a detailed table of e-waste items, categorized by type, with intuitive navigation to the analytics and add item pages.<br/>
