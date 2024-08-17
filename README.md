@@ -2,8 +2,6 @@ Title: E-Waste Monitoring Dashboard Project<br/>
 
 Description:<br/>
 I’m excited to present my latest project - the E-Waste Monitoring Dashboard! 🌍 This project is designed to help track and analyze e-waste items effectively. Crafted with HTML, Tailwind CSS, and Python, it offers a comprehensive tool for managing and visualizing e-waste data.<br/>
-
-<img src="path_to_your_screenshot/add_item_form.png" alt="Add Item Form" />
 Key Features:<br/>
 
 Dashboard Page: Displays a detailed table of e-waste items, categorized by type, with intuitive navigation to the analytics and add item pages.<br/>
@@ -28,4 +26,5 @@ As the project lead, I handled the complete development process, including desig
 Outcome:<br/>
 The E-Waste Monitoring Dashboard demonstrates my commitment to effective and visually appealing web solutions. It combines practical functionality with dynamic data analysis to offer a robust tool for managing e-waste.<br/>
 
-Link: https://github.com/lokesh-reddy14/Hackathon-Waste-Management<br/>
+**My Profile:** <a href="https://github.com/lokesh-reddy14" target="_blank"></a><br/>
+
