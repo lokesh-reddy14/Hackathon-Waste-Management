@@ -2,13 +2,19 @@ Title: E-Waste Monitoring Dashboard Project<br/>
 
 Description:<br/>
 I’m excited to present my latest project - the E-Waste Monitoring Dashboard! 🌍 This project is designed to help track and analyze e-waste items effectively. Crafted with HTML, Tailwind CSS, and Python, it offers a comprehensive tool for managing and visualizing e-waste data.<br/>
-<img src="path_to_your_screenshot/analytics_dashboard.png" alt="E-Waste Monitoring Dashboard" />
+
 <img src="path_to_your_screenshot/add_item_form.png" alt="Add Item Form" />
 Key Features:<br/>
 
 Dashboard Page: Displays a detailed table of e-waste items, categorized by type, with intuitive navigation to the analytics and add item pages.<br/>
+<img src="https://raw.githubusercontent.com/lokesh-reddy14/Hackathon-Waste-Management/main/images/Screenshot%202024-08-17%20224045.png" alt="E-Waste Monitoring Dashboard" />
+
 Analytics Page: Provides a graphical representation of item distribution by category using Chart.js. Includes a list of items needing replacement with dynamic data visualization.<br/>
+<img src="https://raw.githubusercontent.com/lokesh-reddy14/Hackathon-Waste-Management/main/images/Screenshot%202024-08-17%20224110.png" alt="E-Waste Monitoring Dashboard" />
+
 Add Item Form: Simple and user-friendly form to add new e-waste items, capturing essential details such as category, purchase date, and replacement date.<br/>
+<img src="https://raw.githubusercontent.com/lokesh-reddy14/Hackathon-Waste-Management/main/images/Screenshot%202024-08-17%20224053.png" alt="E-Waste Monitoring Dashboard" />
+
 Data Analysis: Python script analyzes e-waste data from a CSV file, generates bar charts of item distribution, and identifies items needing replacement. Outputs visual and CSV files for easy tracking.<br/>
 Technologies Used:<br/>
 
