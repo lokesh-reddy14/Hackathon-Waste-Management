@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Item</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+    <nav class="bg-gray-800 text-white p-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <a href="#" class="text-2xl font-bold">E-waste Dashboard</a>
+            <div class="space-x-4">
+                <a href="analytics.html" class="hover:bg-gray-700 px-3 py-2 rounded">Analytics</a>
+                <a href="add_item.html" class="hover:bg-gray-700 px-3 py-2 rounded">Add Item</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mx-auto mt-10">
+        <h1 class="text-4xl font-bold text-center mb-8">Add New Item</h1>
+        
+        <div class="bg-white shadow-md rounded-lg p-6">
+            <form action="submit_item.php" method="post">
+                <div class="mb-4">
+                    <label for="name" class="block text-gray-700">Item Name</label>
+                    <input type="text" id="name" name="name" class="w-full p-2 border border-gray-300 rounded" required>
+                </div>
+                <div class="mb-4">
+                    <label for="category" class="block text-gray-700">Category</label>
+                    <select id="category" name="category" class="w-full p-2 border border-gray-300 rounded" required>
+                        <option value="Computing">Computing</option>
+                        <option value="Mobile">Mobile</option>
+                        <option value="Office Equipment">Office Equipment</option>
+                    </select>
+                </div>
+                <div class="mb-4">
+                    <label for="purchaseDate" class="block text-gray-700">Purchase Date</label>
+                    <input type="date" id="purchaseDate" name="purchaseDate" class="w-full p-2 border border-gray-300 rounded" required>
+                </div>
+                <div class="mb-4">
+                    <label for="replacementDate" class="block text-gray-700">Replacement Date</label>
+                    <input type="date" id="replacementDate" name="replacementDate" class="w-full p-2 border border-gray-300 rounded" required>
+                </div>
+                <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
